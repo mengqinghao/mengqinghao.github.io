@@ -3,7 +3,7 @@ layout: page
 title: 关于我 
 ---
 
-一个 iOS SDK 开发者，喜欢研究一些新技术。
+一个 JAVA 开发者，从事云计算相关工作，喜欢研究一些新技术。
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
 <p>
@@ -20,7 +20,7 @@ title: 关于我
 <p>
 
 如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
+<a href="/2016/10/jekyll_tutorials1/"> 搭建个人博客 </a>
 教程
 
 <p>
@@ -29,7 +29,7 @@ title: 关于我
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+博客源码在 <a target="_blank" href='https://github.com/mengqinghao/mengqinghao.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 <p> 
 
@@ -41,9 +41,9 @@ title: 关于我
 <h3> 如何联系我 </h3>  
 
 <p> 
-email：leoparpan@icloud.com       
+email：meng.qinghao@h3c.com       
 <p> 
-qq: 1499065178     
+qq: 1018689967     
 <p> 
 如果有 搭建博客 或者 移动端 技术的问题可以一起讨论.
 <p> 
